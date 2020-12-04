@@ -1,0 +1,7 @@
+Georgia recount: ['georgia', 'recount', 'certifies', 'winner', 'state', 'secretary', 'boycott', 'certified', 'results', 'biden']
+Subvert election: ['trump', 'fraud', 'michigan', 'voter', 'romney', 'lawyers', 'embarrassment', 'wisconsin', 'overturn', 'pennsylvania']
+Tax investigation: ['ivanka', 'consulting', 'tax', 'write', 'offs', 'payments', 'reduced', 'york', 'investigations', 'ny']
+Win & Aftermath: ['congratulates', 'tuesday', 'biden', 'cabinet', 'announce', 'picks', 'border', 'toomey', 'elect', 'garland']
+Foreign relations: ['ties', 'afghanistan', 'east', 'chinese', 'senate', 'hunter', 'agreements', 'omar', 'middle', 'merkel']
+Group interest: ['blm', 'transgender', 'catholic', 'founder', 'remembrance', 'improved', 'stays', 'abolish', 'latinos', 'pushing']
+Others: ['trump', 'twitter', 'covid', 'potus', 'account', 'donald', 'golfing', 'what', 'voice', 'norton']
